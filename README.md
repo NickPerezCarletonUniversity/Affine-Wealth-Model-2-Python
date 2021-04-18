@@ -4,8 +4,11 @@ A Monte Carlo implementation of the Affine Wealth Model, as seen in "The Inescap
 ## Requirements
 Tested using Python 3.9.1
 Additional libraries required:
+
   -numpy
+  
   -matplotlib
+  
   -scipy
   
 ## Usage
