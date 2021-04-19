@@ -254,6 +254,7 @@ phi = 1.0
 inital_money_per_node = 0.432365
 #weak link modifier
 omega = 1.0
+#maximum amount of transactions before the simulation terminates
 max_number_of_rounds = 2000000
 #taxation
 chi = 0.000025
